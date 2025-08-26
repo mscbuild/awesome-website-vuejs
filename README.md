@@ -1,4 +1,4 @@
-## Amazing landing page created using Vue
+## 💎ᴠɪᴘ Amazing landing page created using Vue
 
 ![](https://komarev.com/ghpvc/?username=mscbuild) 
  ![](https://img.shields.io/github/license/mscbuild/awesome-website-vuejs) 
