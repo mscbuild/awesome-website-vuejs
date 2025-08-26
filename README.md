@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=mscbuild) 
  ![](https://img.shields.io/github/license/mscbuild/awesome-website-vuejs) 
  ![](https://img.shields.io/badge/PRs-Welcome-green)
- ![](https://img.shields.io/github/languages/code-size/awesome-website-vuejs)
+ ![](https://img.shields.io/github/languages/code-size/mscbuild/awesome-website-vuejs)
 ![](https://img.shields.io/badge/code%20style-vue-green)
 ![](https://img.shields.io/github/stars/mscbuild)
 ![](https://img.shields.io/badge/Topic-Github-lighred)
