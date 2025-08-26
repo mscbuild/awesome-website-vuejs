@@ -1,5 +1,4 @@
-Moutain Project in VueJS
 
-type "npm install" for install
-type "npm run dev" for start
+
+ **A stunning template built with Vue. It is designed to provide all the components a startup needs to create a beautiful website for different needs.**
 
